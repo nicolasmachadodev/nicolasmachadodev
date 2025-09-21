@@ -19,7 +19,8 @@ Atualmente tenho 16 anos e estou cursando o segundo ano do ensino médio. Estou 
 ## 💌 Caso queira entrar em contato comigo: ⤵️
 
 <p align="left">
-  <a href="mailto:nicolasmachadodev@gmail.com" title="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicolasmachadodev@gmail.com
+" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN" title="LinkedIn">
