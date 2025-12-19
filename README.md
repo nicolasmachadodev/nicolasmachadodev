@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Nicolas!
 
-Atualmente tenho 16 anos e estou cursando o segundo ano do ensino médio. Estou aprendendo sobre programação e desenvolvimento web. Já realizei um curso de Javascript, HTML & CSS, Python do curso em vídeo. Atualmente estou focado em um curso de Python fornecido pela OneBitCode.
+Atualmente tenho 16 anos e estou cursando o terceiro ano do ensino médio. Estou aprendendo sobre programação e desenvolvimento web. Já realizei um curso de Javascript, HTML & CSS, Python do curso em vídeo. Atualmente estou focado em um curso de Python fornecido pela OneBitCode.
 
 
 💬 Procuro ser o mais dedicado possível, gosto de aprender novas coisas e atualmente estou bem focado em aprender a programar.
